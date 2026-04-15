@@ -37,7 +37,7 @@ The lab presents **Task 3 – Assign the Security Administrator Role** with the 
 
 Click **Start Task** to begin.
 
-![Task 3 Start Screen](<img width="623" height="289" alt="image" src="https://github.com/user-attachments/assets/47016179-5a49-47ff-878c-ebe7f483b905" />
+![Task 3 Start Screen](images/<img width="623" height="289" alt="image" src="https://github.com/user-attachments/assets/47016179-5a49-47ff-878c-ebe7f483b905" />
 )
 
 ---
