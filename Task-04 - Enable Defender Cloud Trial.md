@@ -98,7 +98,8 @@ Click **Start Task** to begin.
 2. In the left navigation panel, you'll see options like Overview, **Setup**, Recommendations, Attack path analysis, Security alerts, Inventory, etc.
 3. Click on **Setup** in the left menu.
 
-<img width="1568" height="758" alt="image" src="https://github.com/user-attachments/assets/07f04656-88aa-4faa-a3f2-9738a88a507b" />
+<img width="1568" height="754" alt="image" src="https://github.com/user-attachments/assets/b08e19f3-2573-4140-8e28-534178646f89" />
+
 
 
 > The tooltip guides: *"Click Setup."*
