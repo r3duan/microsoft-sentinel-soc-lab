@@ -10,6 +10,14 @@
 
 This repository documents the hands-on lab walkthroughs for the **Microsoft Sentinel SOC Deployment** course. It covers deploying, configuring, and optimizing Microsoft Sentinel using the unified experience within the Microsoft Defender portal. Labs are designed to help technical teams operationalize an AI-ready SOC with improved visibility and integrated Defender workflows.
 
+## Objectives
+
+This Lab guides you through the deployment of the Microsoft Sentinel solutions that will be used in all subsequent Labs.
+
+Microsoft Sentinel All-in-One is aimed at helping customers and partners quickly set up a full-fledged Microsoft Sentinel environment that is ready to use, speeding up deployment and initial configuration tasks in few clicks, saving time and simplifying Microsoft Sentinel setup.
+
+
+
 ---
 
 ## 🗂️ Lab Index
