@@ -37,7 +37,8 @@ Verify and register the four required Azure Resource Providers needed for Micros
 
 1. From the Azure Portal home page, click **Subscriptions** under **Azure services**.
 
-![Navigate to Subscriptions](images/task2-step1-subscriptions.png)
+<img width="1777" height="852" alt="image" src="https://github.com/user-attachments/assets/64ba1807-4e91-45ed-9bc4-37fce9329aac" />
+
 
 > 💡 The guided tooltip instructs: *"Click on Subscriptions."*
 
@@ -50,6 +51,7 @@ Verify and register the four required Azure Resource Providers needed for Micros
 ![Select Azure Subscription](images/task2-step2-select-subscription.png)
 
 > Both subscriptions (Azure Subscription and TFSUB001) are shown as **Active** under Tenant Root Group.
+<img width="1785" height="859" alt="image" src="https://github.com/user-attachments/assets/69c36426-4ec5-40f8-ab6a-1591005cd1ee" />
 
 ---
 
@@ -61,6 +63,7 @@ Verify and register the four required Azure Resource Providers needed for Micros
 ![Expand Settings](images/task2-step3-expand-settings.png)
 
 > The tooltip guides: *"Expand Settings"* to reveal sub-options including Resource providers.
+<img width="1775" height="858" alt="image" src="https://github.com/user-attachments/assets/0270d948-0da0-4ae6-99df-de1ac2764f0d" />
 
 ---
 
@@ -71,6 +74,9 @@ Verify and register the four required Azure Resource Providers needed for Micros
 ![Select Resource Providers](images/task2-step4-resource-providers.png)
 
 > The tooltip prompts: *"Select Resource providers."* This opens the full list of available and registered providers for this subscription.
+
+<img width="1774" height="854" alt="image" src="https://github.com/user-attachments/assets/ea06ba2d-6403-45b4-b4e2-f5df8fe79298" />
+
 
 ---
 
@@ -83,6 +89,9 @@ Verify and register the four required Azure Resource Providers needed for Micros
 
 > The lab tooltip confirms: *"Since Microsoft.insights is already registered we will now check Microsoft.web."* Click **Proceed**.
 
+<img width="1776" height="856" alt="image" src="https://github.com/user-attachments/assets/3f2950b0-54ac-46c0-8dbb-b7d83fff6305" />
+
+
 ---
 
 ### ▶ Step 6 — Check Microsoft.Web (Already Registered)
@@ -94,6 +103,9 @@ Verify and register the four required Azure Resource Providers needed for Micros
 
 > The tooltip confirms: *"It is also registered. Click on the close icon."*  
 > Both Microsoft.Insights and Microsoft.Web were pre-registered — no action needed for these.
+
+<img width="1776" height="856" alt="image" src="https://github.com/user-attachments/assets/aac39eb1-7edd-4176-9419-b52b5449da13" />
+
 
 ---
 
