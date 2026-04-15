@@ -37,8 +37,7 @@ The lab presents **Task 3 – Assign the Security Administrator Role** with the 
 
 Click **Start Task** to begin.
 
-![Task 3 Start Screen](images/<img width="623" height="289" alt="image" src="https://github.com/user-attachments/assets/47016179-5a49-47ff-878c-ebe7f483b905" />
-)
+<img width="623" height="289" alt="image" src="https://github.com/user-attachments/assets/47016179-5a49-47ff-878c-ebe7f483b905" />
 
 ---
 
@@ -60,8 +59,7 @@ Click **Start Task** to begin.
 1. Microsoft Entra ID opens. Navigate to **Users** → **All users** from the left panel (or it may open directly to the Users list).
 2. From the list of 10 users, locate and click on **Admin** (`tadmin@tflabs4.on...`).
 
-![Select Admin User](<img width="1780" height="856" alt="image" src="https://github.com/user-attachments/assets/e8fd0e49-e416-418a-89b8-a9ac8e8f35c1" />
-)
+<img width="1780" height="856" alt="image" src="https://github.com/user-attachments/assets/e8fd0e49-e416-418a-89b8-a9ac8e8f35c1" />
 
 > The guided tooltip confirms: *"From the list of users, Select Admin."*  
 > Admin is shown as a **Member** type user with identity `tflabs4.onmicrosoft.com`.
@@ -73,8 +71,7 @@ Click **Start Task** to begin.
 1. Inside the **Admin** user profile, look at the left navigation panel.
 2. Click on **Assigned roles**.
 
-![Open Assigned Roles](<img width="1778" height="856" alt="image" src="https://github.com/user-attachments/assets/44184d0c-430a-46f1-9314-7c58f3a4ab96" />
-)
+<img width="1778" height="856" alt="image" src="https://github.com/user-attachments/assets/44184d0c-430a-46f1-9314-7c58f3a4ab96" />
 
 > The tooltip instructs: *"Click on Assigned roles to add a new role assignment to the Admin account."*  
 > You can see the Admin user currently has **1** assigned role (Global Administrator), along with **2** Group memberships and **5** Assigned licenses.
@@ -86,8 +83,7 @@ Click **Start Task** to begin.
 1. On the **Admin | Assigned roles** page, you can see the existing role: **Global Administrator**.
 2. Click the **+ Add assignments** button in the top toolbar.
 
-![Click Add Assignments](<img width="1779" height="854" alt="image" src="https://github.com/user-attachments/assets/335f7fd6-46d9-4df7-b291-6d38a7741f2d" />
-)
+<img width="1779" height="854" alt="image" src="https://github.com/user-attachments/assets/335f7fd6-46d9-4df7-b291-6d38a7741f2d" />
 
 > The tooltip prompts: *"Select + Add assignments."*  
 > The Admin account currently only has the **Global Administrator** role — we need to add **Security Administrator** as well.
@@ -103,8 +99,7 @@ Click **Start Task** to begin.
    - **Security Administrator** — broader role covering Entra ID and Office 365 security
 4. Click the **checkbox** next to **Security Administrator**.
 
-![Search and Select Security Administrator](<img width="1777" height="856" alt="image" src="https://github.com/user-attachments/assets/683bc25d-268b-462a-b0b9-aeb438194d33" />
-)
+<img width="1777" height="856" alt="image" src="https://github.com/user-attachments/assets/683bc25d-268b-462a-b0b9-aeb438194d33" />
 
 > The tooltip instructs: *"Click on the checkbox for Security Administrator."*
 
@@ -120,8 +115,7 @@ Click **Start Task** to begin.
 1. With **Security Administrator** checked (checkbox turns blue ✅), the **Add** button at the bottom of the panel activates.
 2. Click **Add** to apply the role assignment.
 
-![Click Add to Confirm](<img width="1776" height="856" alt="image" src="https://github.com/user-attachments/assets/40ea51a2-b83a-4f75-82f9-8fad73991908" />
-)
+<img width="1776" height="856" alt="image" src="https://github.com/user-attachments/assets/40ea51a2-b83a-4f75-82f9-8fad73991908" />
 
 > The tooltip guides: *"Click on the Add button to confirm and apply the role assignment."*
 
@@ -133,8 +127,7 @@ Click **Start Task** to begin.
 2. A green success notification appears in the top-right corner of the portal.
 3. The **Assigned roles** list now shows two roles for the Admin user.
 
-![Security Administrator Successfully Assigned](<img width="1775" height="860" alt="image" src="https://github.com/user-attachments/assets/60546d4d-fd31-436a-b967-275f0d9093d1" />
-)
+<img width="1775" height="860" alt="image" src="https://github.com/user-attachments/assets/60546d4d-fd31-436a-b967-275f0d9093d1" />
 
 ```
 ✅ Successfully added assignment
@@ -158,8 +151,7 @@ The lab displays a final confirmation overlay:
 
 Click **OK** to complete the task.
 
-![Task 3 Complete](images/<img width="1780" height="861" alt="image" src="https://github.com/user-attachments/assets/46999be9-7b71-4a5f-88b9-c56e2947a390" />
-)
+<img width="1780" height="861" alt="image" src="https://github.com/user-attachments/assets/46999be9-7b71-4a5f-88b9-c56e2947a390" />
 
 ---
 
