@@ -67,7 +67,8 @@ Click **Start Task** to begin.
 1. With the left navigation panel expanded, locate **Microsoft Defender for Cloud** in the list.
 2. Click on **Microsoft Defender for Cloud** to open the service.
 
-![Left navigation menu showing Microsoft Defender for Cloud highlighted](screenshot-placeholder)
+<img width="1568" height="758" alt="image" src="https://github.com/user-attachments/assets/f4f22717-f8ba-4067-9e9b-14cbcf206563" />
+
 
 **You should see the following services in the menu:**
 - Home
