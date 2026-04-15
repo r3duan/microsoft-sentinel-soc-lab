@@ -38,7 +38,8 @@ The lab presents **Task 4 – Enable the Trial for Microsoft Defender for Cloud*
 
 Click **Start Task** to begin.
 
-![Task 4 Overview - Start Task button visible](screenshot-placeholder)
+<img width="1568" height="755" alt="image" src="https://github.com/user-attachments/assets/01cf670f-0b78-4b55-91f0-6c6196182539" />
+
 
 **What you'll enable:**
 - Cloud Security Posture Management (CSPM)
@@ -53,7 +54,8 @@ Click **Start Task** to begin.
 1. From the Azure Portal home page, click the **hamburger menu** (three horizontal lines) in the top-left corner.
 2. From the navigation menu that appears, scroll down and select **Microsoft Defender for Cloud**.
 
-![Hamburger menu with tooltip: "Click on the hamburger menu and navigate to Microsoft Defender for Cloud"](screenshot-placeholder)
+<img width="1568" height="750" alt="image" src="https://github.com/user-attachments/assets/99c83e95-b09a-4c96-8091-36d4833a70d3" />
+
 
 > 💡 The guided tooltip instructs: *"Click on the hamburger menu and navigate to Microsoft Defender for Cloud."*  
 > Microsoft Defender for Cloud is Azure's native cloud security solution, formerly known as Azure Security Center and Azure Defender.
@@ -95,7 +97,8 @@ Click **Start Task** to begin.
 2. In the left navigation panel, you'll see options like Overview, **Setup**, Recommendations, Attack path analysis, Security alerts, Inventory, etc.
 3. Click on **Setup** in the left menu.
 
-![Microsoft Defender for Cloud Overview page with tooltip: "Click Setup"](screenshot-placeholder)
+<img width="1568" height="758" alt="image" src="https://github.com/user-attachments/assets/07f04656-88aa-4faa-a3f2-9738a88a507b" />
+
 
 > The tooltip guides: *"Click Setup."*
 
@@ -119,7 +122,8 @@ Click **Start Task** to begin.
 4. Expand the **Management** section.
 5. Click on **Environment settings**.
 
-![Setup page with tooltip: "Expand Management to go to Environment settings"](screenshot-placeholder)
+<img width="1568" height="753" alt="image" src="https://github.com/user-attachments/assets/d2d28cbc-9335-4f08-9e92-5bdde48d1c69" />
+
 
 > The tooltip instructs: *"Expand Management to go to Environment settings."*
 
@@ -135,7 +139,8 @@ Click **Start Task** to begin.
 
 1. With the **Management** section expanded, click on **Environment settings**.
 
-![Left panel showing Management expanded with Environment settings highlighted and tooltip: "Select Environment settings"](screenshot-placeholder)
+<img width="1568" height="753" alt="image" src="https://github.com/user-attachments/assets/e7db811f-749b-4f4e-aa01-b7869a3a194f" />
+
 
 **Management section contains:**
 - 🌐 **Environment settings** ← Click this
@@ -158,7 +163,8 @@ Click **Start Task** to begin.
 3. Under the **Name** column, you'll see the hierarchy starting with **Azure** (collapsed).
 4. Click the **dropdown arrow** (▷) next to **Tenant Root Group (2 of 2 subscriptions)** to expand it.
 
-![Environment settings page with tooltip: "Click on the dropdown for Tenant Root Group"](screenshot-placeholder)
+<img width="1568" height="757" alt="image" src="https://github.com/user-attachments/assets/9cf8d038-1d23-4b21-895f-b980f2750cff" />
+
 
 > The tooltip guides: *"Click on the dropdown for Tenant Root Group."*
 
@@ -172,7 +178,8 @@ Click **Start Task** to begin.
    - 💛 **TFSUB001** (0/0 plans) 
 3. Click on **Azure Subscription**.
 
-![Expanded tenant hierarchy showing Azure Subscription with tooltip: "Select Azure Subscription"](screenshot-placeholder)
+<img width="1568" height="758" alt="image" src="https://github.com/user-attachments/assets/0d07e051-298c-416f-b297-6e2358730451" />
+
 
 > The tooltip instructs: *"Select Azure Subscription."*
 
@@ -191,7 +198,8 @@ Click **Start Task** to begin.
    - Notice: *"30 days free trial is available for some of your plans"*
 3. Click the **Enable all plans** button.
 
-![Settings Defender plans page with tooltip: "Click on Enable all plans button"](screenshot-placeholder)
+<img width="1568" height="758" alt="image" src="https://github.com/user-attachments/assets/5c4d4caf-38a5-4428-8e7f-6c66a7507dea" />
+
 
 > The tooltip guides: *"Click on Enable all plans button."*
 
@@ -227,7 +235,8 @@ Click **Start Task** to begin.
    - ⚪ Microsoft Defender for APIs Plan 4 — $7,000/month - 100 million API calls, Overages: $0.00007/API call
 5. Select the radio button for **Microsoft Defender for APIs Plan 1**.
 
-![Plan selection panel with tooltip: "Select Microsoft Defender for APIs Plan 1"](screenshot-placeholder)
+<img width="1568" height="753" alt="image" src="https://github.com/user-attachments/assets/361b6028-926a-4c9e-b3ca-17d490d5fbe7" />
+
 
 > The tooltip instructs: *"Select Microsoft Defender for APIs Plan 1."*
 
@@ -238,7 +247,8 @@ Click **Start Task** to begin.
 1. With **Microsoft Defender for APIs Plan 1** selected (radio button filled with blue dot ●), the **Save** button at the bottom of the panel becomes active.
 2. Click the **Save** button.
 
-![Plan selection panel showing Plan 1 selected with tooltip: "Click Save button"](screenshot-placeholder)
+<img width="1568" height="756" alt="image" src="https://github.com/user-attachments/assets/41f69288-35d5-428c-8e81-9d3eb7e8188f" />
+
 
 > The tooltip guides: *"Click Save button."*
 
@@ -252,7 +262,8 @@ Click **Start Task** to begin.
 4. A green tooltip appears pointing to the **Save** button at the top of the page.
 5. Click the **Save** button at the top of the page to finalize the configuration.
 
-![Settings page with Defender CSPM enabled and tooltip: "Select Save again"](screenshot-placeholder)
+<img width="1568" height="757" alt="image" src="https://github.com/user-attachments/assets/95e32d76-80c1-4b18-8ae1-68b2093dc482" />
+
 
 > The tooltip instructs: *"Select Save again."*
 
@@ -285,7 +296,8 @@ Click **Start Task** to begin.
 
 3. Click **OK** to complete the task.
 
-![Final confirmation dialog showing task completion](screenshot-placeholder)
+<img width="1568" height="760" alt="image" src="https://github.com/user-attachments/assets/2ba0101c-35d3-48e2-8ba3-4ad611138070" />
+
 
 ---
 
