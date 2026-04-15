@@ -47,9 +47,15 @@ From the Azure portal home, navigate to **Subscriptions**. You'll see the subscr
 
 Click into **Azure Subscription**, then select **Access control (IAM)** from the left navigation. This blade is your central control panel for all RBAC operations at this scope — you can view current role assignments, check access for specific users, and add or remove assignments.
 
+<img width="1776" height="853" alt="image" src="https://github.com/user-attachments/assets/111c5db2-628a-459d-a5f2-1b6c61a67651" />
+
+
 ### 3. Add a Role Assignment
 
 Click **+ Add → Add role assignment**. The wizard that opens walks you through three steps: Role, Members, and Review + assign.
+
+<img width="1775" height="854" alt="image" src="https://github.com/user-attachments/assets/11d9c19e-92ac-4e9d-9e40-995062f0841e" />
+
 
 ### 4. Choose the Right Role
 
@@ -63,15 +69,28 @@ On the **Role** tab, switch to the **Privileged administrator roles** tab. Here 
 
 Select **Contributor** and click **Next**.
 
+<img width="1778" height="858" alt="image" src="https://github.com/user-attachments/assets/c1783255-0f63-4d77-a733-d6b3a349b3f6" />
+
+
 ### 5. Select the Member
 
 On the **Members** tab, the assignment type defaults to **User, group, or service principal** — which is what we want. Click **+ Select members**, search for **Admin**, and select `tadmin@tflabs4.onmicrosoft.com`. Click **Select** to add them.
+
+<img width="1775" height="848" alt="image" src="https://github.com/user-attachments/assets/ae002439-29a9-4a51-8702-e8d0a12f4fb7" />
+
+
 
 ### 6. Review and Confirm
 
 Click **Review + assign** twice to commit the change. Within seconds, you should see a green notification in the top-right corner:
 
 > ✅ *"Admin was added as Contributor for Azure Subscription."*
+
+
+<img width="1775" height="848" alt="image" src="https://github.com/user-attachments/assets/e286c881-60ba-4f7a-84df-aff6d6b905fa" />
+
+
+
 
 Task 1 is complete.
 
