@@ -48,10 +48,10 @@ Verify and register the four required Azure Resource Providers needed for Micros
 
 1. On the Subscriptions page, click **Azure Subscription** from the list.
 
-![Select Azure Subscription](images/task2-step2-select-subscription.png)
+<img width="1785" height="859" alt="image" src="https://github.com/user-attachments/assets/69c36426-4ec5-40f8-ab6a-1591005cd1ee" />
 
 > Both subscriptions (Azure Subscription and TFSUB001) are shown as **Active** under Tenant Root Group.
-<img width="1785" height="859" alt="image" src="https://github.com/user-attachments/assets/69c36426-4ec5-40f8-ab6a-1591005cd1ee" />
+
 
 ---
 
@@ -60,10 +60,10 @@ Verify and register the four required Azure Resource Providers needed for Micros
 1. Inside the **Azure Subscription** blade, scroll down the left navigation panel.
 2. Click on **Settings** to expand it.
 
-![Expand Settings](images/task2-step3-expand-settings.png)
+<img width="1775" height="858" alt="image" src="https://github.com/user-attachments/assets/0270d948-0da0-4ae6-99df-de1ac2764f0d" />
 
 > The tooltip guides: *"Expand Settings"* to reveal sub-options including Resource providers.
-<img width="1775" height="858" alt="image" src="https://github.com/user-attachments/assets/0270d948-0da0-4ae6-99df-de1ac2764f0d" />
+
 
 ---
 
@@ -85,11 +85,10 @@ Verify and register the four required Azure Resource Providers needed for Micros
 1. In the **Search** box, type `Microsoft.insight`.
 2. The result shows **microsoft.insights** with status: ✅ **Registered**.
 
-![Microsoft.Insights Already Registered](images/task2-step5-insights-registered.png)
 
 > The lab tooltip confirms: *"Since Microsoft.insights is already registered we will now check Microsoft.web."* Click **Proceed**.
 
-<img width="1776" height="856" alt="image" src="https://github.com/user-attachments/assets/3f2950b0-54ac-46c0-8dbb-b7d83fff6305" />
+
 
 
 ---
@@ -99,12 +98,14 @@ Verify and register the four required Azure Resource Providers needed for Micros
 1. Clear the search box and type `Microsoft.web`.
 2. The result shows **Microsoft.Web** with status: ✅ **Registered**.
 
-![Microsoft.Web Already Registered](images/task2-step6-web-registered.png)
+<img width="1781" height="857" alt="image" src="https://github.com/user-attachments/assets/8f825184-eae0-438c-9385-e894b5ca39b3" />
+
+
 
 > The tooltip confirms: *"It is also registered. Click on the close icon."*  
 > Both Microsoft.Insights and Microsoft.Web were pre-registered — no action needed for these.
 
-<img width="1776" height="856" alt="image" src="https://github.com/user-attachments/assets/aac39eb1-7edd-4176-9419-b52b5449da13" />
+
 
 
 ---
@@ -115,7 +116,8 @@ Verify and register the four required Azure Resource Providers needed for Micros
 2. The result shows **Microsoft.SecurityInsights** with status: ❌ **NotRegistered**.
 3. Click the **radio button** to the left of the provider name to select it.
 
-![Microsoft.SecurityInsights NotRegistered - Select Radio Button](images/task2-step7-securityinsights-select.png)
+<img width="1568" height="758" alt="image" src="https://github.com/user-attachments/assets/ca154e24-21ea-4741-98e9-e63891341289" />
+
 
 > ⚠️ **Microsoft.SecurityInsights** is the core resource provider for Microsoft Sentinel. It must be registered before Sentinel can be deployed.
 
@@ -125,7 +127,8 @@ Verify and register the four required Azure Resource Providers needed for Micros
 
 1. Click the **radio button** next to **Microsoft.SecurityInsights** to select the row.
 
-![Click Radio Button](images/task2-step8-radio-button.png)
+<img width="1568" height="758" alt="image" src="https://github.com/user-attachments/assets/05605758-f250-4787-b012-23a6638fdf73" />
+
 
 > The tooltip instructs: *"Click on the radio button."* The row will be highlighted, activating the **Register** button in the toolbar.
 
@@ -135,7 +138,8 @@ Verify and register the four required Azure Resource Providers needed for Micros
 
 1. With **Microsoft.SecurityInsights** selected, click the **Register** button at the top of the toolbar.
 
-![Click Register](images/task2-step9-click-register.png)
+<img width="1568" height="755" alt="image" src="https://github.com/user-attachments/assets/8bf2976c-54b3-4af4-9a50-072d41d9abf7" />
+
 
 > The tooltip guides: *"Click on Register."* The **Register** button becomes active (no longer greyed out) once the radio button is selected.
 
@@ -146,7 +150,8 @@ Verify and register the four required Azure Resource Providers needed for Micros
 1. After clicking Register, the status changes to 🔄 **Registering**.
 2. A notification appears in the top-right corner confirming the registration has started.
 
-![SecurityInsights Registering](images/task2-step10-securityinsights-registering.png)
+<img width="1568" height="755" alt="image" src="https://github.com/user-attachments/assets/1fdcfeec-48fa-4a94-865c-13ef5909812c" />
+
 
 ```
 ℹ️ Subscription Registering Resource Provider
@@ -164,7 +169,8 @@ for subscription 'f70fe291-ff3a-427a-b9c1-70eb35b1a59c'
 2. Search for `Microsoft.logic` and repeat the same process: select the radio button → click **Register**.
 3. The status changes to 🔄 **Registering**.
 
-![Microsoft.Logic Registering](images/task2-step11-logic-registering.png)
+<img width="1568" height="753" alt="image" src="https://github.com/user-attachments/assets/9f669b70-51dc-45fd-afee-866a765161eb" />
+
 
 ```
 ℹ️ Subscription Registering Resource Provider
@@ -181,7 +187,8 @@ for subscription 'f70fe291-ff3a-427a-b9c1-70eb35b1a59c'
 1. After all registrations are confirmed, the lab displays a summary overlay.
 2. A green success notification confirms **Microsoft.Logic** was successfully registered.
 
-![Task 2 Complete - All Providers Registered](images/task2-step12-complete.png)
+<img width="1568" height="753" alt="image" src="https://github.com/user-attachments/assets/fd0395fc-a038-432d-9b7a-b8037faa9ef2" />
+
 
 ```
 ✅ Subscription Registering Resource Provider
