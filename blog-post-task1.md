@@ -9,6 +9,8 @@
 When building a modern Security Operations Center (SOC) on Azure, getting your permissions model right from day one is non-negotiable. Before you can deploy Microsoft Sentinel, connect data sources, or configure analytics rules, the accounts doing that work need the right level of access at the right scope.
 
 In this first post of my lab walkthrough series — based on the **Microsoft Partner Skilling Hub course: Modernize and Optimize Your SOC Deployment with Microsoft Sentinel** — I'll walk you through **Task 1: Configure Permissions on the Subscription**. It's a foundational step, but one that trips up many practitioners who skip the RBAC planning phase.
+<img width="1918" height="933" alt="image" src="https://github.com/user-attachments/assets/98decb3c-1ded-46b8-9e45-c3d38262d7ae" />
+
 
 ---
 
@@ -35,6 +37,9 @@ For production environments, Microsoft recommends using the principle of least p
 ### 1. Find Your Subscription
 
 From the Azure portal home, navigate to **Subscriptions**. You'll see the subscriptions your account has RBAC access to manage. In this lab environment, we have two: **Azure Subscription** and **TFSUB001**. We'll be working with **Azure Subscription**.
+
+<img width="1836" height="931" alt="image" src="https://github.com/user-attachments/assets/f29b1888-4bfb-435a-8563-a6a9420534d6" />
+
 
 > **Pro Tip:** If you don't see your subscription, you may be looking in the wrong directory. Use the **Switch directories** link to check.
 
